@@ -1,0 +1,8 @@
+graph: ../../../data/laval_graph.txt
+inter: ../../../data/laval_graph.txt
+vertexcount: 7
+vertex: 482 2504 733 826 172 2361 2605
+jsonpath: ../../../data/geo/points.geojson
+
+graph est remplaçable par n'importe quel graph dans data
+inter est remplaçable par n'importe quel inter dans data
